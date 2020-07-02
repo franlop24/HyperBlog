@@ -1,0 +1,6 @@
+Este es un archivo con un historial de eventos
+
+Para estar realizando pruebas con comandos de git
+
+Solo se han estado utilizando algunos de los comandos de git como son git add, git commit,
+git status, git log, git log --oneline, git checkout, gut push, git fa-pull-left
