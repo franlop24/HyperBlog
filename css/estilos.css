@@ -1,6 +1,6 @@
 body
 {
-    color: blue;
+    color: lightslategrey;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 16px;
@@ -27,7 +27,7 @@ body
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5em;
+    padding: 1em;
 }
 
 #cabecera #tagline {
